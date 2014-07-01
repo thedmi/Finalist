@@ -7,15 +7,15 @@
     <authors>$author$</authors>
     <owners>$author$</owners>
     <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
-    <projectUrl>https://github.com/thedmi/Belt</projectUrl>
+    <projectUrl>https://github.com/thedmi/FinalList</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Maybes are now serialized as array of length zero (empty maybe) or one (maybe exists).</releaseNotes>
+    <releaseNotes>First standalone release (separated from Belt).</releaseNotes>
     <copyright>Copyright 2014</copyright>
-    <tags>immutable, guard, maybe, equatable, lazy, ddd</tags>
+    <tags>immutable, final, list, multi-threading</tags>
     <dependencies>
       <!-- TODO Change version number accordingly -->
-      <dependency id="FinalList" version="0.8.3" />
+      <dependency id="FinalList" version="0.9.0" />
     </dependencies>
   </metadata>
 </package>

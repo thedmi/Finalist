@@ -7,11 +7,11 @@
     <authors>$author$</authors>
     <owners>$author$</owners>
     <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
-    <projectUrl>https://github.com/thedmi/Belt</projectUrl>
+    <projectUrl>https://github.com/thedmi/FinalList</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Minor usability improvements.</releaseNotes>
+    <releaseNotes>First standalone release (separated from Belt).</releaseNotes>
     <copyright>Copyright 2014</copyright>
-    <tags>immutable, guard, maybe, equatable, lazy, ddd</tags>
+    <tags>immutable, final, list, multi-threading</tags>
   </metadata>
 </package>

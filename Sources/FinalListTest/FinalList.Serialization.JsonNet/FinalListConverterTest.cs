@@ -38,13 +38,13 @@
         [Fact]
         public void Can_roundtrip_reference_typed_final_list_with_content()
         {
-            var testObj = new Test<string> { TheList = FinalList.Create("Hello", "Belt") };
+            var testObj = new Test<string> { TheList = FinalList.Create("Hello", "Mars") };
 
             var deserialized = Roundtrip(testObj);
 
             Assert.Equal(2, deserialized.TheList.Count);
             Assert.Equal("Hello", deserialized.TheList[0]);
-            Assert.Equal("Belt", deserialized.TheList[1]);
+            Assert.Equal("Mars", deserialized.TheList[1]);
         }
 
         [Fact]
