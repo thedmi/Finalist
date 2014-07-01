@@ -15,7 +15,7 @@
     <tags>immutable, guard, maybe, equatable, lazy, ddd</tags>
     <dependencies>
       <!-- TODO Change version number accordingly -->
-      <dependency id="Belt" version="0.8.1" />
+      <dependency id="FinalList" version="0.8.3" />
     </dependencies>
   </metadata>
 </package>
