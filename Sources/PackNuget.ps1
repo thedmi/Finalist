@@ -1,12 +1,12 @@
 
-Push-Location Belt
+Push-Location FinalList
 
-nuget pack -Build -Prop Configuration=Release 
+nuget pack -Build -Prop Configuration=Release -Output ..\..\..\LocalNugetFeed
 
 Pop-Location
 
-Push-Location Belt.Serialization.JsonNet
+Push-Location FinalList.Serialization.JsonNet
 
-nuget pack -Build -Prop Configuration=Release 
+nuget pack -Build -Prop Configuration=Release -Output ..\..\..\LocalNugetFeed
 
 Pop-Location
