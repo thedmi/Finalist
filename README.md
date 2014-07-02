@@ -1,5 +1,5 @@
-Final List
-============
+Finalist - A Final List
+========================
 
 
 The `IFinalList<T>` concept denotes a non-lazy, immutable list that is covariant in its item type `T`.

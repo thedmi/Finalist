@@ -11,11 +11,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		VersionInfo.cs = VersionInfo.cs
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalList", "FinalList\FinalList.csproj", "{E7F7EB38-C922-4A12-A18E-09F151E16EAA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finalist", "Finalist\Finalist.csproj", "{E7F7EB38-C922-4A12-A18E-09F151E16EAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalListTest", "FinalListTest\FinalListTest.csproj", "{D61B417F-F827-48E7-B3CF-C8F5D6410779}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalistTest", "FinalistTest\FinalistTest.csproj", "{D61B417F-F827-48E7-B3CF-C8F5D6410779}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalList.Serialization.JsonNet", "FinalList.Serialization.JsonNet\FinalList.Serialization.JsonNet.csproj", "{5A9F6824-067E-4E26-8CBB-6AA2C112059A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finalist.Serialization.JsonNet", "Finalist.Serialization.JsonNet\Finalist.Serialization.JsonNet.csproj", "{5A9F6824-067E-4E26-8CBB-6AA2C112059A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,13 +1,20 @@
-﻿using System.Reflection;
+﻿// --------------------------------------------------------------------------------------------------------------------
+// <copyright file="AssemblyInfo.cs" company="Dani Michel">
+//   Dani Michel 2013
+// </copyright>
+// --------------------------------------------------------------------------------------------------------------------
+
+using System.Reflection;
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FinalList.Serialization.JsonNet")]
-[assembly: AssemblyDescription("Json.Net serialization extension for FinalList")]
+[assembly: AssemblyTitle("Finalist")]
+[assembly: AssemblyDescription("An immutable, covariant list with eager load semantics.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyProduct("FinalList.Serialization.JsonNet")]
+[assembly: AssemblyProduct("Finalist")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -17,15 +24,14 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("142ca790-8d74-42d1-86f4-a318b55f9fbd")]
+[assembly: Guid("21d477d8-d6e9-4e67-9424-5edbd8287dda")]
 
 // Version information for an assembly consists of the following four values:
-//
 //      Major Version
 //      Minor Version 
 //      Build Number
 //      Revision
-//
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
+[assembly: InternalsVisibleTo("FinalistTest")]
