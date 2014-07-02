@@ -4,7 +4,7 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace FinalList
+namespace Finalist
 {
     using System.Collections;
     using System.Collections.Generic;

@@ -7,7 +7,7 @@
     <ProjectGuid>{E7F7EB38-C922-4A12-A18E-09F151E16EAA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FinalList</RootNamespace>
+    <RootNamespace>Finalist</RootNamespace>
     <AssemblyName>FinalList</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

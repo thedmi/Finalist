@@ -4,11 +4,11 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace FinalListTest.FinalList
+namespace FinalListTest.Finalist
 {
     using System.Collections.Immutable;
 
-    using global::FinalList;
+    using global::Finalist;
 
     using Xunit;
 

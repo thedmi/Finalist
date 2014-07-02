@@ -1,4 +1,4 @@
-﻿namespace FinalList.Serialization.JsonNet
+﻿namespace Finalist.Serialization.JsonNet
 {
     using Newtonsoft.Json;
 

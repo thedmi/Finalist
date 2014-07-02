@@ -1,10 +1,12 @@
-﻿namespace FinalList.Serialization.JsonNet
+﻿namespace Finalist.Serialization.JsonNet
 {
     using System;
     using System.Collections;
     using System.Collections.Immutable;
     using System.Linq;
     using System.Reflection;
+
+    using Finalist;
 
     using Newtonsoft.Json;
 

@@ -1,9 +1,9 @@
-﻿namespace FinalListTest.FinalList.Serialization.JsonNet
+﻿namespace FinalListTest.Finalist.Serialization.JsonNet
 {
     using System.Diagnostics;
 
-    using global::FinalList;
-    using global::FinalList.Serialization.JsonNet;
+    using global::Finalist;
+    using global::Finalist.Serialization.JsonNet;
 
     using Newtonsoft.Json;
 
