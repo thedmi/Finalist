@@ -4,6 +4,12 @@ Finalist - A Final List
 
 The `IFinalList<T>` concept denotes a non-lazy, immutable list that is covariant in its item type `T`.
 
+Grab the NuGet [here](https://www.nuget.org/packages/Finalist/).
+
+
+Motivation
+------------
+
 The motivation for `IFinalList` was that there is no concept of a list in .NET that carries all of these properties.
 
 - `IReadOnlyList<T>` is covariant in T and eagerly loaded, but is read-only, not immutable 
